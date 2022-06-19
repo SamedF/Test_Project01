@@ -57,6 +57,7 @@
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     First change.*
                                     2nd change
+                                    3rd change
                                 </div>
                             </div>
                         </div>
